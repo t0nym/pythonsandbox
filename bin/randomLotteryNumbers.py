@@ -4,7 +4,7 @@
 ###
 ### 1) Creates 6 lottery numbers - none of which should be repeated. 
 ### 2) Print list content in a straight line.
-### 3) Print list in a numeric order. 
+### 3) Sort list in numeric order. 
 ###
 
 # Import the random number library
